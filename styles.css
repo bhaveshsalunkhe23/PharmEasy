@@ -1,0 +1,247 @@
+a:hover{
+    text-decoration: none;
+}
+
+.navbar-section{
+    background-color: #10847e;
+    height: 100%;
+}
+.nav-item{
+
+    padding: 0 12px;
+    font-size: 100%;
+}
+
+.nav-link{
+    font-size: 1.05rem;
+    color: #fff;
+}    
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.navbar-search-tab{
+    padding-top:2rem ;
+    
+}
+.navbar-button{
+    padding: 1rem 0 ;
+
+}
+.navbar-button-content{
+    color: #fff;
+    background-color:#014b47 ;
+}
+
+.search-bar-menu{
+    font-size: 1.05rem;
+    color: #fff;
+}
+.search-bar-menu:hover{
+    color: #fff;
+    text-decoration: none;
+    
+}
+.navbar-search-modal-button{
+    background-color: #10847e;
+}
+.navbar-search-modal-content{
+    border: solid 2px  #aaaaaa;
+    border-radius:5px ;
+    margin:  7%  2%;
+    padding: 3% 7%;
+}
+
+.navbar-modal-content{
+    padding: 7% 7% ;
+}
+
+.navbar-modal-subheading{
+    color: #fff;
+    background-color:#10847e ;
+    padding: 2px 10px;
+}
+
+.navbar-modal-steps-heading{
+    color:#10847e;
+}
+
+.modal-hr {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+
+ .modal-hr span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+
+ @media (max-width:1028px){
+
+    .navbar-button{
+        display:none;
+    }
+
+  }
+
+.card-body{
+   height:185px;
+   width:400px;
+  
+}
+
+.add-section{
+
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.center-content{
+    text-align:left;
+    font-weight: 350;
+    font-size: 35px;
+    font-family: Montserrat,Sans-serif;
+    width:170px;
+    padding-top:30px;
+    
+   
+}
+
+.upper-part{
+    background-image: url(https://d2y2l77dht9e8d.cloudfront.net/web-assets/dist/1602b4ce.svg);
+    background-repeat:no-repeat;
+    font-size:17px;
+    color:#fff;
+    position:absolute;
+    top:0;
+    left:0;
+    border-top-left-radius:6px;
+    height:29px;
+    width:145px;
+    padding-left:10px;
+    padding-top: 2px;
+    padding-bottom:2px;
+
+    
+}
+
+
+.card-inner{
+    padding:20px;
+    padding-left:60px;
+    padding-right: 15px;
+
+}
+
+.card-1{
+    background-image: url(https://d2y2l77dht9e8d.cloudfront.net/web-assets/dist/7c645a8d.png);
+    padding-left:60px;
+    background-size: cover;
+}
+
+.card-2{
+    background-image: url(https://d2y2l77dht9e8d.cloudfront.net/web-assets/dist/c7c7095b.png);
+    background-size: cover;
+    padding-right:60px;
+
+}
+
+.card-3{
+    background-image: url(https://d2y2l77dht9e8d.cloudfront.net/web-assets/dist/e1d3ac1c.png);
+    background-size: cover;
+    padding-right:60px;
+}
+
+
+.button-section-1{
+    background: #10847e; 
+    color: rgb(238, 231, 231);
+    
+}
+.button-section-2{
+    background: #fc8019;
+    color: #fff;    
+}
+.button-section-3{
+    background:#00b9e1; 
+    color: #fff;    
+}
+
+.button-section{
+    padding:5px 10px;
+}
+
+.col-sm-4{
+    padding-left:25px;;
+    padding-right:25px;
+}
+
+
+.container-fluid{
+    padding-left:80px;
+    padding-right:80px;
+}
+
+._3EswD {
+    background-color: #a291fa;
+    background-image: url(https://assets.pharmeasy.in/web-assets/dist/f5c40209.svg);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 94px;
+    border-radius: 6px;
+}
+
+._3EswD {
+    background-color: #a291fa;
+    background-image: url(https://assets.pharmeasy.in/web-assets/dist/f5c40209.svg);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 94px;
+    border-radius: 6px;
+}
+
+._23uAK {
+    max-width: 210px;
+    max-height: 100%;
+}
+
+._3jDVB {
+    -webkit-box-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    margin: auto;
+    padding-top: 5px;
+    padding-right: 25px;
+}
+
+._1OUU1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    position: relative;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+}
+
+._27xbr {
+    height: 136px;
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+}
